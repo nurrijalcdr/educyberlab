@@ -1,0 +1,4 @@
+Rencana Pembangunan Depok Cluster Educations
+- Persiapan Sample Sekolah Random
+- Persiapan Server
+- Persiapan Network
